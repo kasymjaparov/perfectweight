@@ -1,0 +1,21 @@
+.header_title{
+    padding: 20px 0px 20px 4px ;
+    font-size: 35px;
+    font-weight: 700;
+}
+.header_desc{
+    padding: 0px 0px 0px 4px ;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+
+
+
+
+
+@media(max-width:500px){
+    .header_title, .header_desc{
+        padding: 20px 0px 0px 7px ;
+    }
+}
