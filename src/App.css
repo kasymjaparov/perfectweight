@@ -25,6 +25,8 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .app{
     background: rgb(233, 228, 228);
+    height: auto;
+    padding: 0px 0px 0px 0px ;
 }
 .app-container{
     width: 70%;

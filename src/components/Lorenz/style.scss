@@ -35,9 +35,9 @@
     color: #6c757d;
     line-height: 20px;
 }
-// .desc2{
-//     padding: 0px 0px 50px 0px ;
-// }
+.desc2{
+    padding: 0px 0px 20px 0px ;
+}
 .brokW_calculator_header{
     height: 60.4px;
    background-color: rgba(0,0,0,.03);
@@ -143,10 +143,11 @@ box-shadow: 0 0 5pt 2pt #8cbad8;
 
 .brokW_calculator_result{
     height: 48px;
-    font-size: 18px;
+    font-size: 16px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 8px;
     color: #0c5460;
     margin: 20px 0 20px 20px ;
     width: 90%;
