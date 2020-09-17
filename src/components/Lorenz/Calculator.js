@@ -6,8 +6,8 @@ function App() {
   return (
       <div className="brokW_calculator">
 <header className='brokW_calculator_header'>
-<div className="brokW_calculator_header_icon"></div>
-  <div className="brokW_calculator_header_title">Калькулятор по формуле Брока</div>
+<div className="brokW_calculator_header_icon" />
+  <div className="brokW_calculator_header_title">Калькулятор по формуле Лоренца</div>
 </header>
 <div className="brokW_calculator_title">Рост, см</div>
 <div>
